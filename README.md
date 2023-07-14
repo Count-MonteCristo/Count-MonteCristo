@@ -2,7 +2,7 @@
 
 I am a passionate Full Stack Web Developer with expertise in the MERN stack (MongoDB, Express.js, React.js, Node.js). I enjoy building scalable and efficient web applications, and I'm constantly learning and exploring new technologies to enhance my skills.
 
-![snake gif](https://github.com/Count-MonteCristo/Count-MonteCristo/blob/output/github-contribution-grid-snake.svg)
+<!--![snake gif](https://github.com/Count-MonteCristo/Count-MonteCristo/blob/output/github-contribution-grid-snake.svg)-->
 
 <p align="center">🏆 GitHub Trophies</p>
 <p align="center">
