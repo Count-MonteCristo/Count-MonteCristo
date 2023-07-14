@@ -4,7 +4,7 @@ I am a passionate Full Stack Web Developer with expertise in the MERN stack (Mon
 
 ![snake gif](https://github.com/Count-MonteCristo/Count-MonteCristo/blob/output/github-contribution-grid-snake.svg)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=count-montecristo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=count-montecristo&theme=onedark)](https://github.com/count-montecristo/github-profile-trophy)
 
 ### Contact
 Feel free to reach out to me for any collaboration, project, or job opportunities. You can connect with me on LinkedIn or visit my portfolio website for more information.
