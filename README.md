@@ -4,10 +4,12 @@ I am a passionate Full Stack Web Developer with expertise in the MERN stack (Mon
 
 <!--![snake gif](https://github.com/Count-MonteCristo/Count-MonteCristo/blob/output/github-contribution-grid-snake.svg)-->
 
-<p align="center">🏆 GitHub Trophies</p>
+<br/>
+<p align="center">🏆 GitHub Trophies 🏆</p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=count-montecristo&theme=algolia&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET"/>
 </p>
+<br/>
 
 ### Contact
 Feel free to reach out to me for any collaboration, project, or job opportunities. You can connect with me on LinkedIn or visit my portfolio website for more information.
@@ -29,6 +31,6 @@ Feel free to reach out to me for any collaboration, project, or job opportunitie
 ## GitHub Stats
 <div>
    <a href="https://github.com/Count-MonteCristo">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Count-MonteCristo&layout=compact&langs_count=16&theme=dracula"/>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Count-MonteCristo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Count-MonteCristo&layout=compact&langs_count=16&theme=tokyonight"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Count-MonteCristo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
