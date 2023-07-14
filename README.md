@@ -31,6 +31,6 @@ Feel free to reach out to me for any collaboration, project, or job opportunitie
 ## GitHub Stats
 <div>
    <a href="https://github.com/Count-MonteCristo">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Count-MonteCristo&layout=compact&langs_count=16&theme=tokyonight"/>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Count-MonteCristo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues"/>
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Count-MonteCristo&layout=compact&langs_count=16&theme=algolia"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Count-MonteCristo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
