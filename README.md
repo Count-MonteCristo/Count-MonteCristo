@@ -27,11 +27,10 @@ Feel free to reach out to me for any collaboration, project, or job opportunitie
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"> <img src="https://camo.githubusercontent.com/400cd54f362c71a034b81df2145126a1b8ce94ecee21db04bd836ab5fc2e893f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5653253230436f64652d3030374143432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465"> <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
 
 <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white"> <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E"> <img src="https://camo.githubusercontent.com/e51ce283337074d916f58ce83728fb4a26c8fdcc28adcd01a8a7afca0226459f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d4630353033322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465"> <img src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white">
-<!--
+
 ## GitHub Stats
 <div>
    <a href="https://github.com/Count-MonteCristo">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Count-MonteCristo&layout=compact&langs_count=16&theme=algolia"/>
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Count-MonteCristo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
--->
