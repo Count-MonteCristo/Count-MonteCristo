@@ -1,6 +1,6 @@
 # Hello There! I'm Luis Navarro. Welcome to my GitHub page!
 
-I am a passionate Full Stack Web Developer with expertise in the MERN stack (MongoDB, Express.js, React.js, Node.js). I enjoy building scalable and efficient web applications, and I'm constantly learning and exploring new technologies to enhance my skills.
+As a passionate Software Engineer, I thrive on transforming creative ideas into impactful digital experiences. With a proven track record in UX/UI design, full-stack web development, and SEO, I bring a unique blend of skills to craft comprehensive solutions that drive results.
 
 <!--![snake gif](https://github.com/Count-MonteCristo/Count-MonteCristo/blob/output/github-contribution-grid-snake.svg)-->
 
